@@ -14,7 +14,7 @@
 <nav class="navbar navbar-inverse navbar-fixed-top">
   <div class="container">
 	<div class="navbar-header">
-		<a class="navbar-brand" href="#">Spring 3 MVC Project</a>
+		<a class="navbar-brand" href="#">Spring 3 MVC Project By iamsaikishore </a>
 	</div>
   </div>
 </nav>
@@ -28,7 +28,7 @@
 		</c:if>
  
 		<c:if test="${empty name}">
-			Welcome Welcome!
+			Welcome to my Project Ref:Mkyong!
 		</c:if>
     </p>
     <p>
@@ -66,7 +66,7 @@
  
   <hr>
   <footer>
-	<p>&copy; Mkyong.com 2015</p>
+	<p>&copy; kishq.com 2015</p>
   </footer>
 </div>
  
