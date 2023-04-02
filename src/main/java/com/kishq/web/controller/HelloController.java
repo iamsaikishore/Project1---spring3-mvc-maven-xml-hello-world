@@ -1,4 +1,4 @@
-package com.mkyong.web.controller;
+package com.kishq.web.controller;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.ModelMap;
@@ -13,7 +13,7 @@ public class HelloController {
 	@RequestMapping(value = "/", method = RequestMethod.GET)
 	public String printWelcome(ModelMap model) {
 
-		model.addAttribute("message", "Spring 3 MVC Hello World My example by mkyong");
+		model.addAttribute("message", "Spring 3 MVC Hello World My example by kishq");
 		return "hello";
 
 	}
