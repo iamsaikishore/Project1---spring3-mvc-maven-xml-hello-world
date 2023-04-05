@@ -127,3 +127,12 @@ Yeah! Our application was deploy successfully to Tomcat server.
 
 ### Hope you all are enjoyed.
 
+For the original Project Details click the below links.
+
+[GitHub Repo](https://github.com/jmstechhome8/spring3-mvc-maven-xml-hello-world)
+
+[Youtube](https://www.youtube.com/watch?v=4TRfvlU7W90&list=PLVnWcdGotHcapVIbp1dCUkT4fifxUz5kN&index=4&t=2468s)
+
+Please refer to this article [Maven - Spring 3 MVC Hello World ](http://www.mkyong.com/spring3/spring-3-mvc-hello-world-example/)
+
+
